@@ -1,0 +1,19 @@
+{
+  "name": "midnitebot",
+  "version": "0.3.0",
+  "description": "A server management bot for GBDG_MiDNiTE",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "moment": "^2.29.0",
+    "twit": "^2.2.11",
+    "twitch-api-v5": "^2.0.4",
+    "twitch-bot": "^1.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle (TheGuitarleader)",
+  "license": "ISC"
+}

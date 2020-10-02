@@ -1,0 +1,5 @@
+Added changelog command to tell users what's new
+Added ping command to test bot ping
+Added info command to give more info on the bot
+
+MiDNiTE now forwards tweets
